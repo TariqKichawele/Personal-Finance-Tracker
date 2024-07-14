@@ -1,0 +1,17 @@
+date,amount,category,description
+03-04-2024,1000,Income,Salary
+14-07-2024,150.0,Income,Freelance
+14-07-2024,150.0,Income,salary
+22-07-2024,200,Expense,Groceries
+25-07-2024,50,Expense,Utilities
+01-08-2024,1200,Income,Salary
+05-08-2024,75,Expense,Transportation
+10-08-2024,180,Expense,Dining Out
+15-08-2024,100,Income,Freelance
+18-08-2024,500,Expense,Rent
+25-08-2024,60,Expense,Internet
+01-09-2024,1000,Income,Salary
+03-09-2024,90,Expense,Entertainment
+10-09-2024,200,Income,Bonus
+15-09-2024,250,Expense,Groceries
+20-09-2024,30,Expense,Phone Bill
